@@ -1,1 +1,1 @@
-# Pok-mon-for-Data-Mining-and-Machine-Learning
+# Pokémon for Data Mining and Machine Learning
